@@ -1,0 +1,85 @@
+Dear Mr. Himanshu,
+
+ 
+
+As per our discussion on ERP module for Softberry, PFB details as discussed.
+
+ 
+
+The in-house team has developed the module as per images 1,2 & 3.
+
+1 Pre Sales
+
+2 Post Sales
+
+3 SBT signup flow
+
+ 
+
+The url & login credentials are as follows:
+
+https://erp.softberry.in/
+
+ 
+
+SuperAdmin & Admin
+
+username : 8888877777
+
+password : password
+
+ 
+
+Sales coordinate
+
+username : 9012345678
+
+password : 123456
+
+ 
+
+mobile: 9789787567
+
+password:  wqLKIhiF
+
+user type : vendor
+
+ 
+
+mobile:  9626837522
+
+password : BrM2IyTe
+
+user type : clients
+
+ 
+
+mobile :9012345678
+
+password: 123456
+
+user type : psc
+
+ 
+
+mobile:1234512345
+
+password: password
+
+user type : quality analyst
+
+ 
+
+mobile:1234512345
+
+password:123456
+
+user type : Logistic
+
+ 
+
+THE CHANGES WE ARE PLANNING IN IT WHICH ARE TOUCHUP & STRUCTURAL BOTH ARE BASED ON IMAGES A, B, C, D, E & F.
+
+ 
+
+Please have a look & let me know a feasible time to discuss.
